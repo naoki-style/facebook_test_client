@@ -17,8 +17,8 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class FbSampleMainActivity extends Activity {
-	private final static String APP_ID = "259382907515291";
-	private final static String APP_SECRET = "8e51465265caf3bb8013b4180460d12f";
+	private final static String APP_ID = "XXX";
+	private final static String APP_SECRET = "YYY";
 	private Facebook mFacebook;
 	// permission (https://developers.facebook.com/docs/authentication/permissions/)
 	private final static String[] permissions = {"publish_stream"};
